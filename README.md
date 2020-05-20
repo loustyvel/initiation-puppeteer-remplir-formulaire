@@ -5,6 +5,6 @@ Installer les dépendances via <b>Npm install</b>
 </br>
 ou
 </br>
-<b>Npm install puppeteer --save<b>
+<b>Npm install puppeteer --save</b>
 </br>
-Start projet : <b>Node app</b>
+<b>Start projet : <b>Node app</b>
