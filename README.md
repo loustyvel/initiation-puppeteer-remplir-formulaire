@@ -7,4 +7,4 @@ ou
 </br>
 <b>npm install puppeteer --save</b>
 </br>
-Start projet : <b>Node app</b>
+Start projet : <b>node app</b>
